@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# Piroll-Desgin-In-TailwindCss-React" 
 "# Piroll-Desgin-In-TailwindCss-React" 
 
-Preview Link: https://pirolldesign.netlify.app/
+Preview Link: https://laughing-leakey-74eb2f.netlify.app/
 "# Rock-power" 
